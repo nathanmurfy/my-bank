@@ -1,2 +1,1 @@
-# my-bank
-Getting started with Git practice repo
+Hello, this is a project to play with branches.
